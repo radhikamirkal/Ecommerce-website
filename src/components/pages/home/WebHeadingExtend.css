@@ -1,0 +1,22 @@
+.headin {
+  width: 100% !important;
+  height: 20% !important;
+  margin-top: -1rem;
+  background-color: rgb(113, 109, 109) !important;
+  margin-bottom: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.btnImg{
+    height: 4rem !important;
+    width: 4rem !important;
+    margin: 0;
+   
+}
+.albumBtn{
+    height: 2rem !important;
+   
+}

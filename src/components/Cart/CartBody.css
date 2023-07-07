@@ -1,0 +1,9 @@
+.cartBody{
+    background-color:aliceblue!important;
+    border-color: rgb(94, 88, 88) !important;
+    height: 100vh !important;
+    width: 100vw !important;
+    margin-top: 19rem !important;
+    margin-right: 10%;
+   overflow: auto;
+}

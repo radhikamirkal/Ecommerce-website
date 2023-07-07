@@ -1,0 +1,36 @@
+.authTab {
+    position: absolute;
+    left: 79%;
+   
+    width: 9rem !important;
+    height: 2.7rem !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10rem;
+    transition: 0.9s;
+    
+  }
+
+  .authTab:hover{
+    background-color: rgb(243, 201, 201) !important;
+    color: black !important;
+  }
+  .login{
+    position: absolute;
+    left: 79%;
+    top: 2%;
+    width: 9rem !important;
+    height: 2.5rem !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10rem;
+    transition: 0.9s;
+  }
+
+  .login:hover{
+    background-color: rgb(243, 201, 201) !important;
+    color: black !important;
+  }
+

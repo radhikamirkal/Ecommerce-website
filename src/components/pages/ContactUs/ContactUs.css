@@ -1,0 +1,73 @@
+body{
+    background-color: rgb(246, 241, 241);
+}
+
+.contact-row{
+    
+    padding: 1rem;
+    height: 30em;
+}
+.contact-row .common{
+    border-radius: 0.5rem;
+    padding: 1rem;
+}
+
+.left{
+    background-color: rgb(97, 97, 247);
+}
+
+.right{
+    background-color: aliceblue;
+}
+
+.heading{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+    background-color: aliceblue !important;
+}
+
+.sMediaIcon {
+    width: 40px;
+    height: 40px;
+    transition: transform 0.3s ease-in-out;
+    margin: 1rem;
+  }
+  
+  .sMediaIcon:hover {
+    transform: scale(1.2);
+  }
+
+  
+  .sMedialOuter:hover {
+    transform: scale(1.1);
+  }
+  .sMediaIcon:hover,
+  .socialMedia:hover p {
+    transform: scale(1.2);
+  }
+
+  .quote {
+    font-size: 1.2rem;
+    font-style: italic;
+    text-align: center;
+    color: white;
+    margin-bottom: 20px;
+    margin-top: 3rem;
+  }
+  
+  .quote-heading {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 4rem;
+    color: white;
+  }
+  
+
+  .message{
+    position: absolute !important;
+   width: 38rem;
+   height: 4rem;
+   
+  }

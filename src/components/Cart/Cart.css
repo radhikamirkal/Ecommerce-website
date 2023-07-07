@@ -1,0 +1,25 @@
+.cart {
+  position: absolute;
+  left: 93%;
+  width: 3rem !important;
+  height: 3rem !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.img {
+  width: 2rem;
+  margin-top: 40%;
+}
+
+.cart:hover {
+  background-color: rgb(173, 234, 236) !important;
+  transition: 0.5s;
+}
+
+.number {
+  position: absolute;
+  top: 0%;
+  left:15%;
+  bottom: 90%;
+}

@@ -1,0 +1,29 @@
+.aboutImg{
+    height:20em ;
+    width: 20rem;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+   
+}
+
+.parent{
+   display: flex;
+   margin: 2rem;
+   margin-left: 4rem;
+   padding: 2rem;
+  
+}
+
+.parent p{
+    margin-left: 8rem;
+}
+
+.parent p h5{
+    margin-left: 12rem;
+}
+
+.aboutImg{
+    margin: 0 !important;
+}

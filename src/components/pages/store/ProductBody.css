@@ -1,0 +1,25 @@
+    .productBody{
+        height: 80vh ;
+        margin-top: 15vh;
+       
+    }
+
+    .sectionStyle{
+        margin-bottom: 5% !important;
+    
+        
+    }
+    .parentDiv{
+        background-color: aliceblue;    
+        margin-top: 8% !important;
+            
+        overflow: scroll;
+
+    }
+
+    .cartBtn{
+        position:relative;
+        left: 42%;
+        width: 10rem;
+        margin-bottom: 2rem;
+    }
